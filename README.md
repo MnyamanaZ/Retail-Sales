@@ -31,9 +31,13 @@ The purpose of this dashboard is to provide a comprehensive view of retail sales
 - Peak months: May(~12%), October(~10.2), December(~10 (> $40K each); Lowest month: September (~5% of total revenue).
 
 ## 💡 Key Recommendations
-
 - Launch youth-targeted campaigns to grow revenue from the smaller customer base.
 - Promote products in the Beauty category as they are the least perfoming.
 - Introduce tiered loyalty programs to encourage low spenders to increase basket size.
 - Focus on retaining high spenders with personalized offers and exclusive deals.
 - Use insights from peak and dip months to optimize inventory and seasonal promotions.
+
+## 📖 CONCLUSION
+- This project demonstrated the ability to move from raw sales data to clear and  actionable outcomes using SQL for analysis and Databricks for visualization. 
+- It highlights a structured approach to solving business problems, from cleaning and querying data to presenting results in a dashboard format.
+- Beyond the specific sales findings, the repository shows how data analytics can support decision-making by identifying opportunities and guiding future strategies. 
