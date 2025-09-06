@@ -1,5 +1,5 @@
 # Retail-Sales-Analysis
-**This repository is a retail sales case study created as part of my data analytics journey. Its purpose is to demonstrate my ability to work through the full data analysis workflow, from raw sales data to insights and storytelling — using SQL, Excel, and visualization tools. The project focuses on uncovering retail sales patterns, customer behavior, and revenue trends, while presenting actionable recommendations for business growth.**
+**This repository is a retail sales case study created as part of my data analytics journey. Its purpose is to demonstrate my ability to work through the full data analysis workflow, from raw sales data to insights and storytelling — using SQL, Excel, and Databricks as the visualization tool. The project focuses on uncovering retail sales patterns, customer behavior, and revenue trends, while presenting actionable recommendations for business growth.**
 
 ## 🎯 Project Objectives
 The purpose of this dashboard is to provide a comprehensive view of retail sales performance, focusing on:
