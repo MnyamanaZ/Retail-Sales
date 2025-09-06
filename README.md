@@ -1,7 +1,6 @@
 # Retail-Sales
 
-
-# Shopping-Trends-Analysis
+# Retail-Sales-Analysis
 **This repository is a complete case study submission for my data analytics learning journey, my aim is to showcase my ability to work through data workflow, from raw files to storytelling and presentation, using different platform for data interrogationa and visaulization.**
 
 ## 🎯 Project Objectives
